@@ -1,16 +1,35 @@
-## Hi there 👋
+# Bernard Turikumana
 
-<!--
-**mutabazi105/mutabazi105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🇩🇪 **Living in Hannover, Germany**  
+💻 **Software Developer** | 📊 **Data Enthusiast** | 🚀 **Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **Python data analysis projects** and improving my **C#/.NET skills**
+- 🌱 I'm learning **advanced algorithms**, **machine learning**, and preparing for **German C1**
+- 👯 I'm looking to collaborate on **open source projects** in Hannover and beyond
+- 🎯 Goal: Contribute to innovative tech solutions in Germany
+- ⚡ Fun fact: cycling around Hannover
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+💬 Programming Languages
+├── Python (pandas, numpy, matplotlib)
+├── C# / ASP.NET
+├── Java
+├── PHP
+├── SQL (MySQL, Oracle)
+└── HTML / CSS
+
+🛠️ Tools & Frameworks
+├── Visual Studio / VS Code
+├── Git / GitHub
+├── Microsoft SQL Server
+├── Crystal Reports
+├── WordPress / Joomla
+└── IBM Watson / AI Fundamentals
