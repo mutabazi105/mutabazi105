@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Python data analysis projects** and improving my **C#/.NET skills**
-- 🌱 I'm learning **advanced algorithms**, **machine learning**, and preparing for **German C1**
+- 🌱 I'm learning **advanced algorithms**, **machine learning**
 - 👯 I'm looking to collaborate on **open source projects** in Hannover and beyond
 - 🎯 Goal: Contribute to innovative tech solutions in Germany
 - ⚡ Fun fact: cycling around Hannover
